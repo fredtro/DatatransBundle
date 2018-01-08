@@ -19,6 +19,11 @@
     "autoload": {
         "psr-0": { "Valiton\\Payment\\DatatransBundle": "" }
     },
-    "target-dir": "Valiton/Payment/DatatransBundle"
+    "target-dir": "Valiton/Payment/DatatransBundle",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+          }
+        }
 }
 
